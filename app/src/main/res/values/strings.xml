@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Safety Beacon</string>
+    <string name="title_home">Home</string>
+    <string name="title_sos">SOS</string>
+    <string name="title_spy">Spy Detector</string>
+    <string name="news_info">Read daily news and stay updated</string>
+    <string name="emergency_sos_widget_description">Emergency SOS widget for quick access to emergency services</string>
+    <string name="emergency_sos_notification_channel">Emergency SOS</string>
+    <string name="sos_activated_title">Emergency SOS Activated</string>
+    <string name="sos_activated_message">Sending emergency messages and calling emergency contacts...</string>
+</resources>
